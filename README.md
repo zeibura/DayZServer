@@ -9,10 +9,15 @@ Explanation of version numbers:
 - Increase the second number (0.1.0) if a reinstall is required, e.g. changes to types/spawnable types which require a server wipe and new loot economy to take effect.
 - Increase the first number (1.0.0) if the DayZ version is upgraded.
 
+### 0.5.2
+
+- Increase Idle Mode Countdown to 24 hours to ensure loot cycling during downtime.
+
 ### 0.5.1
 
 - Moved Pusta spawnpoint across village.
 - Increased nails in exchange for jumpsuits.
+- Test message added.
 
 ### 0.5.0
 
