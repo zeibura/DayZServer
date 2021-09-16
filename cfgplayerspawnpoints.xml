@@ -76,7 +76,7 @@
                 <pos x="4476.00" z="4500.00" /> <!-- kozlovka -->
                 <pos x="5800.00" z="4616.00" /> <!-- naděždino -->
                 <pos x="7634.00" z="4885.00" /> <!-- mogilevka -->
-                <pos x="9162.00" z="3674.00" /> <!-- pusta -->
+                <pos x="9073.00" z="4143.00" /> <!-- pusta -->
         </generator_posbubbles>
     </fresh>
 
@@ -89,7 +89,7 @@
                 <pos x="4476.00" z="4500.00" /> <!-- kozlovka -->
                 <pos x="5800.00" z="4616.00" /> <!-- naděždino -->
                 <pos x="7634.00" z="4885.00" /> <!-- mogilevka -->
-                <pos x="9162.00" z="3674.00" /> <!-- pusta -->
+                <pos x="9073.00" z="4143.00" /> <!-- pusta -->
         </generator_posbubbles>
     </hop>
 
@@ -102,7 +102,7 @@
                 <pos x="4476.00" z="4500.00" /> <!-- kozlovka -->
                 <pos x="5800.00" z="4616.00" /> <!-- naděždino -->
                 <pos x="7634.00" z="4885.00" /> <!-- mogilevka -->
-                <pos x="9162.00" z="3674.00" /> <!-- pusta -->
+                <pos x="9073.00" z="4143.00" /> <!-- pusta -->
         </generator_posbubbles>
     </travel>
 </playerspawnpoints>

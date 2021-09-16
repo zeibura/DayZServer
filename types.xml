@@ -8691,7 +8691,7 @@
     <usage name="Village" />
   </type>
   <type name="JumpsuitJacket_Blue">
-    <nominal>20</nominal>
+    <nominal>15</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>10</min>
@@ -8704,7 +8704,7 @@
     <usage name="Coast" />
   </type>
   <type name="JumpsuitJacket_Gray">
-    <nominal>20</nominal>
+    <nominal>15</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>10</min>
@@ -8717,7 +8717,7 @@
     <usage name="Coast" />
   </type>
   <type name="JumpsuitJacket_Green">
-    <nominal>20</nominal>
+    <nominal>15</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>10</min>
@@ -8730,7 +8730,7 @@
     <usage name="Coast" />
   </type>
   <type name="JumpsuitJacket_Red">
-    <nominal>20</nominal>
+    <nominal>15</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>10</min>
@@ -8743,10 +8743,10 @@
     <usage name="Coast" />
   </type>
   <type name="JumpsuitPants_Blue">
-    <nominal>25</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>15</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -8756,10 +8756,10 @@
     <usage name="Farm" />
   </type>
   <type name="JumpsuitPants_Green">
-    <nominal>25</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>15</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -8769,10 +8769,10 @@
     <usage name="Farm" />
   </type>
   <type name="JumpsuitPants_Grey">
-    <nominal>25</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>15</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -8782,10 +8782,10 @@
     <usage name="Farm" />
   </type>
   <type name="JumpsuitPants_Red">
-    <nominal>25</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>15</min>
+    <min>10</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -11470,10 +11470,10 @@
     <category name="tools" />
   </type>
   <type name="NailBox">
-    <nominal>120</nominal>
+    <nominal>160</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>90</min>
+    <min>110</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
