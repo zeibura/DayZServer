@@ -1,5 +1,7 @@
 # Zeibura DayZ server
 
+Each previous version of the server config as of 0.5.0 is saved in a branch.
+
 ## Version history
 
 Explanation of version numbers:
