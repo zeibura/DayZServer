@@ -1,7 +1,5 @@
 # Zeibura DayZ server
 
-This repo is just for filehosting. New branch for each config "version".
-
 ## Version history
 
 Explanation of version numbers:
