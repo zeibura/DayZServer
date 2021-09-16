@@ -9,18 +9,24 @@ Explanation of version numbers:
 - Increase the second number (0.1.0) if a reinstall is required, e.g. changes to types/spawnable types which require a server wipe and new loot economy to take effect.
 - Increase the first number (1.0.0) if the DayZ version is upgraded.
 
-### 0.0.0
+### 0.5.0
 
-- Default config, DayZ version 1.13
+- Reduced amount of overall loot.
+- Slightly reduced pig spawns.
+- Fixed issue with Šárkas still not spawning with extra radiator.
 
-### 0.0.1
+### 0.4.0
 
-- Solitary spawn point set to Novaya Petrovka train station.
+- Added extra items to types.xml, slightly increased amount of food by adding more food items.
+- Increased number of deer and pig spawns.
+- Relocated spawn points to Balota, Kozlovka, Naděždino, Mogilevka and Pusta.
+- Removed canteens from cars.
+- Fixed issue with some cars not spawning with an extra radiator.
 
-### 0.1.0
+### 0.3.0
 
-- Fixed bug spawning in the sea (test character killed by server wipe)
-- Spawn point set to the road outside NP train station.
+- Fixed error preventing entire spawnable types file from being read.
+- Spawn point added at Chernogorsk N petrol station.
 
 ### 0.2.0
 
@@ -32,21 +38,15 @@ Explanation of version numbers:
 - Gear set to appear from Pristine to Damaged, not Badly Damaged.
 - Spawn point set to Chernogorsk W petrol station.
 
-### 0.3.0
+### 0.1.0
 
-- Fixed error preventing entire spawnable types file from being read.
-- Spawn point added at Chernogorsk N petrol station.
+- Fixed bug spawning in the sea (test character killed by server wipe)
+- Spawn point set to the road outside NP train station.
 
-### 0.4.0
+### 0.0.1
 
-- Added extra items to types.xml, slightly increased amount of food by adding more food items.
-- Increased number of deer and pig spawns.
-- Relocated spawn points to Balota, Kozlovka, Naděždino, Mogilevka and Pusta.
-- Removed canteens from cars.
-- Fixed issue with some cars not spawning with an extra radiator.
+- Solitary spawn point set to Novaya Petrovka train station.
 
-### 0.5.0
+### 0.0.0
 
-- Reduced amount of overall loot.
-- Slightly reduced pig spawns.
-- Fixed issue with Šárkas still not spawning with extra radiator.
+- Default config, DayZ version 1.13
