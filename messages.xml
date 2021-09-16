@@ -43,5 +43,9 @@ Example messages:
         <text>Welcome to my server #name</text>
     </message>
 	-->
-	
+<message>
+        <delay>1</delay>
+        <onconnect>1</onconnect>
+        <text>Long live whistle bass</text>
+</message>
 </messages>
