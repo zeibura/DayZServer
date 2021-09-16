@@ -11,11 +11,11 @@ Explanation of version numbers:
 
 ### 0.0.0
 
-- Default config
+- Default config, DayZ version 1.13
 
 ### 0.0.1
 
-- Spawn point set to Novaya Petrovka train station.
+- Solitary spawn point set to Novaya Petrovka train station.
 
 ### 0.1.0
 
