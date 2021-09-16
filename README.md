@@ -15,13 +15,17 @@ Explanation of version numbers:
 
 ### 0.1.0
 
-- Spawn point set to Novaya Petrovka train station.
+- Spawn point set to Prison Island.
 - Custom types.xml test.
 
 ### 0.1.1
 
+- Spawn point moved to Novaya Petrovka train station.
+
+### 0.1.2
+
 - Fixed bug spawning in the sea
-- Spawn point set to the road outside NP train station
+- Spawn point set to the road outside NP train station.
 
 ### 0.2.0
 
