@@ -6,7 +6,7 @@ This repo is just for filehosting. New branch for each config "version".
 
 Explanation of version numbers:
 - Increase the third number (0.0.1) if no reinstall is required, e.g. changing a spawn point or event, minor updates to types.xml.
-- Increase the second number (0.1.0) if a reinstall is required, e.g. changes to types/spawnabletypes require complete regeneration to take effect.
+- Increase the second number (0.1.0) if a reinstall is required, e.g. changes to types/spawnable types which require a server wipe and new loot economy to take effect.
 - Increase the first number (1.0.0) if the DayZ version is upgraded.
 
 ### 0.0.0
